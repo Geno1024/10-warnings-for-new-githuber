@@ -2,6 +2,10 @@
 
 Actually, more than 10, maybe.
 
+0. I use github to push some commits to git.
+ - Git is a tool, GitHub is a server providing services related to git.
+ - Note the case. The word GitHub has two uppercase letters, G, and H.
+
 1. My GitHub Pages reported 404.
  - Wait for 10 minutes.
  - Check your email.
@@ -21,3 +25,6 @@ Actually, more than 10, maybe.
    - `git push -f` to force push.
    - or `git pull`
    - or equally, `git fetch` then `git merge`.
+
+4. I can't do ??thing on Tortoise Git/SourceTree/GitHub for Windows etc.
+ - You may learn
