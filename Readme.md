@@ -27,4 +27,6 @@ Actually, more than 10, maybe.
    - or equally, `git fetch` then `git merge`.
 
 4. I can't do ??thing on Tortoise Git/SourceTree/GitHub for Windows etc.
- - You may learn
+ - You should learn command line git(Git Bash) first, to understand what you are doing, what you should do, and, what the GUI is doing.
+
+5. 
