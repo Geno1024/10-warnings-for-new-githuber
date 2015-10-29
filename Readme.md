@@ -7,8 +7,8 @@ Actually, more than 10, maybe.
  - Note the case. The word GitHub has two uppercase letters, G, and H.
 
 1. My GitHub Pages reported 404.
- - Wait for 10 minutes.
- - Check your email.
+ - Wait for 10 minutes. It needs about 10 minutes for GitHub to do something(What thing?) about the domain(?).
+ - Check your email. Some error messages will be sent to your email. Solve that according to the error messages, such as unverified e-mail.
 
 2. I want to get updates from fork base.
  - You can see a sentence "This branch is ? commit(s) before..." in a blue box on the top of the file list in your repo page, with a "Pull Request" in the right. Use it, create a pull request from the fork source(which is called upstream) to your repo.
