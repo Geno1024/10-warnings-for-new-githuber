@@ -7,8 +7,8 @@
  - 注意大小写。GitHub 的 G 和 H 是大写的。
 
 1. 我的 GitHub 页面报了 404。
- - 等待 10 分钟。
- - 检查一下你的邮箱。
+ - 等待 10 分钟。第一次使用 GitHub Pages 功能时，GitHub 需要大约 10 分钟来做一些关于域名（？）的（什么？）事。
+ - 检查一下你的邮箱。你的邮箱可能会收到一些错误消息之类，按照里面的提示去解决问题，例如验证邮箱之类。
 
 2. I want to get updates from fork base.
  - You can see a sentence "This branch is ? commit(s) before..." in a blue box on the top of the file list in your repo page, with a "Pull Request" in the right. Use it, create a pull request from the fork source(which is called upstream) to your repo.

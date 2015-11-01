@@ -7,7 +7,7 @@ Actually, more than 10, maybe.
  - Note the case. The word GitHub has two uppercase letters, G, and H.
 
 1. My GitHub Pages reported 404.
- - Wait for 10 minutes. It needs about 10 minutes for GitHub to do something(What thing?) about the domain(?).
+ - Wait for 10 minutes. It needs about 10 minutes for GitHub to do something(What thing?) about the domain(?) when you are creating the GitHub Pages for the first time.
  - Check your email. Some error messages will be sent to your email. Solve that according to the error messages, such as unverified e-mail.
 
 2. I want to get updates from fork base.
