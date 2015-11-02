@@ -10,8 +10,8 @@
  - 等待 10 分钟。第一次使用 GitHub Pages 功能时，GitHub 需要大约 10 分钟来做一些关于域名（？）的（什么？）事。
  - 检查一下你的邮箱。你的邮箱可能会收到一些错误消息之类，按照里面的提示去解决问题，例如验证邮箱之类。
 
-2. I want to get updates from fork base.
- - You can see a sentence "This branch is ? commit(s) before..." in a blue box on the top of the file list in your repo page, with a "Pull Request" in the right. Use it, create a pull request from the fork source(which is called upstream) to your repo.
+2. 我想获取 Fork 的源仓库（base）的更新。
+ - 你能在你的仓库的页面的文件列表上方的蓝色方框中看到一句类似于“This branch is ? commit(s) before...”的话，右边有个“Pull Request”。嗯，使用它，从源仓库（也被称为“上游”）向你的仓库创建一个 Pull Request，并合并它。
 
 3. I can't push to the remote.
  - Is it report this?
