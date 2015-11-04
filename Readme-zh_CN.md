@@ -13,18 +13,18 @@
 2. 我想获取 Fork 的源仓库（base）的更新。
  - 你能在你的仓库的页面的文件列表上方的蓝色方框中看到一句类似于“This branch is ? commit(s) before...”的话，右边有个“Pull Request”。嗯，使用它，从源仓库（也被称为“上游”）向你的仓库创建一个 Pull Request，并合并它。
 
-3. I can't push to the remote.
- - Is it report this?
+3. 我无法推送。
+ - 它是否报出了以下类似的内容？
  ```
  To .../remote/
   ! [rejected]		master -> master (non-fast forward)
  error: failed to push some refs to '.../remote/'
  ```
- - After solved this, you should use `git pull` before continuing your work, every time when you change your working position.
- - But now, you should solve it first. You can:
-   - `git push -f` to force push.
-   - or `git pull`
-   - or equally, `git fetch` then `git merge`.
+ - 在解决了这个问题之后，请紧记一点：每次更换工作地点之后，开始工作之前要用一下 `git pull`。
+ - 但是现在，你急需的是解决这个问题。你可以：
+   - `git push -f` 来强推。
+   - 或者 `git pull`
+   - 或者相等地，`git fetch` 然后 `git merge`。
 
 4. I can't do ??thing on Tortoise Git/SourceTree/GitHub for Windows etc.
  - You should learn command line git(Git Bash) first, to understand what you are doing, what you should do, and, what the GUI is doing.
