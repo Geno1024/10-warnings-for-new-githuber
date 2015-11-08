@@ -26,7 +26,7 @@
    - 或者 `git pull`
    - 或者相等地，`git fetch` 然后 `git merge`。
 
-4. I can't do ??thing on Tortoise Git/SourceTree/GitHub for Windows etc.
- - You should learn command line git(Git Bash) first, to understand what you are doing, what you should do, and, what the GUI is doing.
+4. 我用的是 Tortoise Git/SourceTree/GitHub 客户端，现在我没法做……。
+ - 建议先学 Git 的命令行(Git Bash)吧，了解一下你在做什么，需要做什么，以及，那些图形界面在做什么。
 
 5. 
